@@ -1,4 +1,4 @@
-# ESP32 CYD Minecraft Server Tools
+# ESP32 CYD Minecraft Server Tools created with AI by me
 
 Прошивка для ESP32 CYD 2432S028R с Minecraft-инструментами:
 
